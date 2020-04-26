@@ -5,6 +5,6 @@ public class Child extends Person {
 
     public static void main(String[] args) {
         Person p = new Child();
-        System.out.println(p.name + "1111");
+        System.out.println(p.name);
     }
 }
